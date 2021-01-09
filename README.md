@@ -1,4 +1,4 @@
-### Hi, I'm [Eduardo](https://github.com/jecmar/) 👋👨‍💻
+### Hi, I'm [Jecmar](https://github.com/jecmar/) 👋👨‍💻
 
 A Web Developer from Mexico, I Have Worked With: CodeIgniter and try implement React with some projects.
 
